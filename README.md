@@ -1,9 +1,9 @@
 # lab02-zeyuhe
 
 
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
 
 Javadoc: https://ucsb-cs56-w20.github.io/zeyuhe/
+
 Repo: https://https://github.com/ucsb-cs56-w20/zeyuhe
 
 # About this repo
