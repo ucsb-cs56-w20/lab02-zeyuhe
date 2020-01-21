@@ -2,9 +2,9 @@
 
 
 
-Javadoc: https://ucsb-cs56-w20.github.io/zeyuhe/
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-zeyuhe/
 
-Repo: https://https://github.com/ucsb-cs56-w20/zeyuhe
+Repo: https://https://github.com/ucsb-cs56-w20/lab02-zeyuhe
 
 # About this repo
 
